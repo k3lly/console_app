@@ -13,6 +13,7 @@ namespace console_app
             Console.WriteLine("who are you?");
             Console.WriteLine("i'm fu");
             Console.WriteLine("wtf");
+            Console.WriteLine("bye");
         }
     }
 }
