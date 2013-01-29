@@ -13,6 +13,7 @@ namespace console_app
             var name = Console.ReadLine();
             Console.WriteLine("Fuck you, " + name);
             Console.WriteLine("olo");
+            Console.WriteLine("- -'");
             Console.ReadLine();
         }
     }
