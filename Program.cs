@@ -14,6 +14,8 @@ namespace console_app
             Console.WriteLine("Hello, " + name);
 			Console.WriteLine("add na ja");
 			Console.WriteLine("add na ja2");
+            Console.WriteLine("Fuck you, " + name);
+            Console.WriteLine("olo");
             Console.ReadLine();
 			master
         }
