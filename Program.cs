@@ -11,7 +11,7 @@ namespace console_app
         {
             Console.WriteLine("what's your name?");
             var name = Console.ReadLine();
-            Console.WriteLine("Hello, " + name);
+            Console.WriteLine("Fuck you, " + name);
             Console.ReadLine();
         }
     }
