@@ -15,6 +15,7 @@ namespace console_app
 			Console.WriteLine("add na ja");
 			Console.WriteLine("add na ja2");
             Console.ReadLine();
+			master
         }
     }
 }
