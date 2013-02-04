@@ -10,26 +10,27 @@ namespace console_app
         static void Main(string[] args)
         {
 
-            Console.WriteLine("what's your name?");
-            var name = Console.ReadLine();
-            Console.WriteLine("Hello, " + name);
-			Console.WriteLine("add na ja");
-			Console.WriteLine("add na ja2");
-			Console.WriteLine("add na ja3");
-            Console.WriteLine("Fuck you, " + name);
-            Console.WriteLine("olo");
-            Console.WriteLine("Fuck you");
-            Console.WriteLine("damn");
-			ton
-            Console.WriteLine("Very much");
-            Console.WriteLine("dev");
-            Console.ReadLine();
-			master
-            Console.WriteLine("hello world");
-            Console.WriteLine("who are you?");
-            Console.WriteLine("i'm fu");
-            Console.WriteLine("wtf");
-            Console.WriteLine("bye");
+            Cocommit-ansole.WriteLine("what's your name?");
+            vacommit-ar name = Console.ReadLine();
+            Cocommit-ansole.WriteLine("Hello, " + name);
+			Console.commit-aWriteLine("add na ja");
+			Console.commit-aWriteLine("add na ja2");
+			Console.commit-aWriteLine("add na ja3");
+            Cocommit-ansole.WriteLine("Fuck you, " + name);
+            Cocommit-ansole.WriteLine("olo");
+            Cocommit-ansole.WriteLine("Fuck you");
+            Cocommit-ansole.WriteLine("damn");
+			ton     commit-a
+            Cocommit-ansole.WriteLine("Very much");
+            Cocommit-ansole.WriteLine("dev");
+            Cocommit-ansole.ReadLine();
+			master  commit-a
+            Cocommit-ansole.WriteLine("hello world");
+            Cocommit-ansole.WriteLine("who are you?");
+            Cocommit-ansole.WriteLine("i'm fu");
+              commit-a
+            Cocommit-ansole.WriteLine("wtf");
+            Cocommit-ansole.WriteLine("bye");
 
         }
     }
