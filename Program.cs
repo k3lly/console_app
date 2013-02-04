@@ -19,12 +19,10 @@ namespace console_app
             Console.WriteLine("Fuck you, " + name);
             Console.WriteLine("olo");
             Console.WriteLine("Fuck you");
-<<<<<<< HEAD
             Console.WriteLine("damn");
 			ton
-=======
             Console.WriteLine("Very much");
->>>>>>> 2dd1b95827af2d263518c7d716a97457b5ea10b9
+            Console.WriteLine("dev");
             Console.ReadLine();
 			master
             Console.WriteLine("hello world");
