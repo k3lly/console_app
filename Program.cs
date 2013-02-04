@@ -9,6 +9,7 @@ namespace console_app
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("what's your name?");
             var name = Console.ReadLine();
             Console.WriteLine("Hello, " + name);
@@ -18,6 +19,12 @@ namespace console_app
             Console.WriteLine("olo");
             Console.ReadLine();
 			master
+            Console.WriteLine("hello world");
+            Console.WriteLine("who are you?");
+            Console.WriteLine("i'm fu");
+            Console.WriteLine("wtf");
+            Console.WriteLine("bye");
+
         }
     }
 }
