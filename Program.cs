@@ -14,6 +14,7 @@ namespace console_app
             Console.WriteLine("Hello, " + name);
             Console.WriteLine("Fuck you");
             Console.WriteLine("damn");
+            Console.WriteLine("dev");
             Console.ReadLine();
         }
     }
