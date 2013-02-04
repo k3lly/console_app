@@ -9,20 +9,25 @@ namespace console_app
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
+
             Console.WriteLine("what's your name?");
             var name = Console.ReadLine();
             Console.WriteLine("Hello, " + name);
+			Console.WriteLine("add na ja");
+			Console.WriteLine("add na ja2");
+			Console.WriteLine("add na ja3");
+            Console.WriteLine("Fuck you, " + name);
+            Console.WriteLine("olo");
             Console.WriteLine("Fuck you");
             Console.WriteLine("Very much");
             Console.ReadLine();
-=======
+			master
             Console.WriteLine("hello world");
             Console.WriteLine("who are you?");
             Console.WriteLine("i'm fu");
             Console.WriteLine("wtf");
             Console.WriteLine("bye");
->>>>>>> f611ae4... bye
+
         }
     }
 }
